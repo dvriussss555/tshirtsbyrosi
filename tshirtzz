@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TShirts by Rosi - Acasă</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="TShirts by Rosi Logo" />
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Acasă</a></li>
+        <li><a href="despre.html">Despre</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Bine ai venit la TShirts by Rosi!</h1>
+      <p>Originalitate, creativitate și tricouri pictate manual pentru tine.</p>
+    </section>
+
+    <section class="featured-products">
+      <h2>Produse recomandate</h2>
+      <div class="products">
+        <div class="product-card">
+          <img src="images/tricou1.jpg" alt="Tricou Model 1" />
+          <h3>Tricou Model 1</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou2.jpg" alt="Tricou Model 2" />
+          <h3>Tricou Model 2</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou3.jpg" alt="Tricou Model 3" />
+          <h3>Tricou Model 3</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TShirts by Rosi. Toate drepturile rezervate.</p>
+  </footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Despre - TShirts by Rosi</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="TShirts by Rosi Logo" />
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Acasă</a></li>
+        <li><a href="despre.html" class="active">Despre</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about-us">
+      <h1>Despre TShirts by Rosi</h1>
+      <p>
+        TShirts by Rosi se ocupă cu pictarea manuală a tricourilor și design creativ. Fiecare tricou este unicat, creat cu pasiune, originalitate și atenție la detalii.
+      </p>
+      <p>
+        Ne diferențiem prin originalitate și creativitate, oferind haine care spun o poveste și te reprezintă.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TShirts by Rosi. Toate drepturile rezervate.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shop - TShirts by Rosi</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="TShirts by Rosi Logo" />
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Acasă</a></li>
+        <li><a href="despre.html">Despre</a></li>
+        <li><a href="shop.html" class="active">Shop</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="product-list">
+      <h1>Shop - Produsele noastre</h1>
+      <div class="products">
+        <div class="product-card">
+          <img src="images/tricou1.jpg" alt="Tricou Model 1" />
+          <h3>Tricou Model 1</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou2.jpg" alt="Tricou Model 2" />
+          <h3>Tricou Model 2</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou3.jpg" alt="Tricou Model 3" />
+          <h3>Tricou Model 3</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou4.jpg" alt="Tricou Model 4" />
+          <h3>Tricou Model 4</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+        <div class="product-card">
+          <img src="images/tricou5.jpg" alt="Tricou Model 5" />
+          <h3>Tricou Model 5</h3>
+          <p>Preț: 250 lei</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TShirts by Rosi. Toate drepturile rezervate.</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact - TShirts by Rosi</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="TShirts by Rosi Logo" />
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Acasă</a></li>
+        <li><a href="despre.html">Despre</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="contact-form">
+      <h1>Contactează-ne</h1>
+      <form>
+        <label for="name">Nume:</label><br />
+        <input type="text" id="name" name="name" placeholder="Numele tău" required /><br /><br />
+
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="email" placeholder="Email-ul tău" required /><br /><br />
+
+        <label for="message">Mesaj:</label><br />
+        <textarea id="message" name="message" rows="5" placeholder="Scrie mesajul aici..." required></textarea><br /><br />
+
+        <button type="submit">Trimite</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TShirts by Rosi. Toate drepturile rezervate.</p>
+  </footer>
+</body>
+</html>
+
+* {
+  margin: 0; padding: 0; box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: #222;
+}
+.logo img {
+  height: 50px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+nav ul li a {
+  color: #eee;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+nav ul li a:hover,
+nav ul li a.active {
+  color: #f94f6d;
+}
+.hero {
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, #f94f6d 0%, #ff9671 100%);
+  color: #fff;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+.hero p {
+  font-size: 1.25rem;
+}
+.featured-products {
+  padding: 2rem;
+  text-align: center;
+}
+.products {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.product-card {
+  background: #fefefe;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 200px;
+  padding: 1rem;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+.product-card:hover {
+  transform: translateY(-5px);
+}
+.product-card img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+.product-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #222;
+  color: #eee;
+  margin-top: 2rem;
+}
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+.contact-form input,
+.contact-form textarea {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  width: 100%;
+}
+.contact-form button {
+  margin-top: 1rem;
+  background: #f94f6d;
+  color: white;
+  border: none;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+.contact-form button:hover {
+  background-color: #ff6370;
+}
